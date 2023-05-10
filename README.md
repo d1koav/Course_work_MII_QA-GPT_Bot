@@ -5,7 +5,7 @@
 Для запуска установите необходимые библиотеки из файла requirments.txt и заполните API ключи в файле api.py
 
 ### Используемые API
-- Yandex SpeechKit,
-- Telegram Bot API,
-- OpenAi API,
-- Redis,
+- Yandex SpeechKit
+- Telegram Bot API
+- OpenAi API
+- Redis
